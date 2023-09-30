@@ -1,1 +1,13 @@
+Default Compute Cluster is Azure Kubernetes
+Attached Compute option can have services attached like Azure DataBricks and Azure HDInsight
+For deploying model as a webservice, defauly option available is Azure Kubernetes Service Cluster, other option available is Azure Machine Learning SDK
 
+####################################################################################################################################################################
+
+QUIZ:
+
+1. When you deploy a trained model as a web service, Azure Machine Learning creates an inference pipeline.
+2. You build a machine learning experiment in Azure Machine Learning studio by connecting modules into a pipeline that data flows through.
+3. Which of the following is an unsupervised machine learning algorithm? --> clustering
+4. In machine learning, when data is labeled this means that each piece of training data has a label with the “answer.”
+5. An Azure Machine Learning dataset is a pointer to a specific file in a datastore or other data source.
